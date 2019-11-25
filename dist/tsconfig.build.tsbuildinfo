@@ -1106,7 +1106,7 @@
         "signature": "e0e01013f40a172c13d53c88ce2695741df27852da7ede9e2e336c86c43c8ec5"
       },
       "../src/app.service.ts": {
-        "version": "eaf8514ce110fa428a93a27408df4d06d133dbd9ed0a775c315ddfdd507853a9",
+        "version": "01c37564017ae0845cf1c0f3fffe168ad244807c093d1750d75b2e57f488186c",
         "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2"
       },
       "../src/app.controller.ts": {
@@ -7573,7 +7573,6 @@
       "../node_modules/@nestjs/common/utils/forward-ref.util.d.ts",
       "../node_modules/@nestjs/common/utils/index.d.ts",
       "../node_modules/@nestjs/common/index.d.ts",
-      "../src/app.service.ts",
       "../src/app.controller.ts",
       "../src/user/dto/user.dto.ts",
       "../node_modules/@types/bson/index.d.ts",
@@ -7595,6 +7594,7 @@
       "../src/user/user.controller.ts",
       "../src/user/schemas/user.schema.ts",
       "../src/user/user.module.ts",
+      "../src/app.module.ts",
       "../node_modules/@nestjs/core/adapters/http-adapter.d.ts",
       "../node_modules/@nestjs/core/adapters/index.d.ts",
       "../node_modules/@nestjs/core/constants.d.ts",
@@ -7666,7 +7666,7 @@
       "../node_modules/@types/webpack/index.d.ts",
       "../node_modules/@types/yargs-parser/index.d.ts",
       "../node_modules/@types/yargs/index.d.ts",
-      "../src/app.module.ts"
+      "../src/app.service.ts"
     ]
   },
   "version": "3.7.2"
