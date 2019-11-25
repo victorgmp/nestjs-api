@@ -1326,7 +1326,7 @@
         "signature": "c9ae0b351a07b52f29a28e869d8c7c8d29743bbb5eeddc7c0b5b2a69a2450528"
       },
       "../src/main.ts": {
-        "version": "e62832bbc066a6a7695f5a1a420f273ac206839ffdfbab6504c120cf40117f08",
+        "version": "36c00faffd7821204a610b8c581f2430bbbdd7777a11c4edb2c76974ada5edfb",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "../node_modules/@types/anymatch/index.d.ts": {
