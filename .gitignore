@@ -2,6 +2,7 @@
 
 coverage/
 dist/
+/dist
 node_modules/
 tmp/
 temp/
