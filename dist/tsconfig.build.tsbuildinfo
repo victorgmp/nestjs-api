@@ -1326,7 +1326,7 @@
         "signature": "c9ae0b351a07b52f29a28e869d8c7c8d29743bbb5eeddc7c0b5b2a69a2450528"
       },
       "../src/main.ts": {
-        "version": "f44f6ba53bb7d12b5cd16461cc9e376e5c77a46d927d84c9926825c0a612f1cd",
+        "version": "4a08c8e66019f66d02a20c80104a15dad1e4609766f40707d57e3353753f08e4",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "../node_modules/@types/anymatch/index.d.ts": {
@@ -7591,10 +7591,10 @@
       "../src/user/user.service.ts",
       "../node_modules/@types/hapi__joi/index.d.ts",
       "../src/user/joi.validation.pipe.ts",
+      "../src/user/validations/joi.user.schema.ts",
       "../src/user/user.controller.ts",
       "../src/user/schemas/user.schema.ts",
       "../src/user/user.module.ts",
-      "../src/app.module.ts",
       "../node_modules/@nestjs/core/adapters/http-adapter.d.ts",
       "../node_modules/@nestjs/core/adapters/index.d.ts",
       "../node_modules/@nestjs/core/constants.d.ts",
@@ -7666,7 +7666,7 @@
       "../node_modules/@types/webpack/index.d.ts",
       "../node_modules/@types/yargs-parser/index.d.ts",
       "../node_modules/@types/yargs/index.d.ts",
-      "../src/user/validations/joi.user.schema.ts"
+      "../src/app.module.ts"
     ]
   },
   "version": "3.7.2"
