@@ -2,12 +2,8 @@
   "name": "nestjs-api",
   "version": "0.0.1",
   "description": "",
-  "author": "Víctor Moreno",
+  "author": "",
   "license": "MIT",
-  "engines": {
-    "node": "10.5.0",
-    "npm": "6.11.12"
-  },
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
@@ -15,15 +11,13 @@
     "start": "nest start",
     "start:dev": "nest start --watch",
     "start:debug": "nest start --debug --watch",
-    "prestart:prod": "rimraf dist && npm run build",
-    "start:prod": "node dist/src/main.js",
+    "start:prod": "node dist/main",
     "lint": "tslint -p tsconfig.json -c tslint.json",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:cov": "jest --coverage",
     "test:debug": "node --inspect-brk -r tsconfig-paths/register -r ts-node/register node_modules/.bin/jest --runInBand",
-    "test:e2e": "jest --config ./test/jest-e2e.json",
-    "heroku-postbuild": "npm install --only=dev --no-shrinkwrap && npm run build"
+    "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
     "@hapi/joi": "^16.1.8",
