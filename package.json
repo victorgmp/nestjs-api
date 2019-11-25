@@ -2,8 +2,12 @@
   "name": "nestjs-api",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Víctor Moreno",
   "license": "MIT",
+  "engines": {
+    "node": "10.5.0",
+    "npm": "6.4.1"
+  },
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
