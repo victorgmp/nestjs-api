@@ -1326,7 +1326,7 @@
         "signature": "c9ae0b351a07b52f29a28e869d8c7c8d29743bbb5eeddc7c0b5b2a69a2450528"
       },
       "../src/main.ts": {
-        "version": "4a08c8e66019f66d02a20c80104a15dad1e4609766f40707d57e3353753f08e4",
+        "version": "e62832bbc066a6a7695f5a1a420f273ac206839ffdfbab6504c120cf40117f08",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "../node_modules/@types/anymatch/index.d.ts": {
@@ -7573,6 +7573,7 @@
       "../node_modules/@nestjs/common/utils/forward-ref.util.d.ts",
       "../node_modules/@nestjs/common/utils/index.d.ts",
       "../node_modules/@nestjs/common/index.d.ts",
+      "../src/app.service.ts",
       "../src/app.controller.ts",
       "../src/user/dto/user.dto.ts",
       "../node_modules/@types/bson/index.d.ts",
@@ -7627,7 +7628,6 @@
       "../node_modules/@nestjs/core/services/index.d.ts",
       "../node_modules/@nestjs/core/index.d.ts",
       "../node_modules/dotenv/types/index.d.ts",
-      "../src/main.ts",
       "../node_modules/@types/anymatch/index.d.ts",
       "../node_modules/@babel/types/lib/index.d.ts",
       "../node_modules/@types/babel__generator/index.d.ts",
@@ -7666,7 +7666,7 @@
       "../node_modules/@types/webpack/index.d.ts",
       "../node_modules/@types/yargs-parser/index.d.ts",
       "../node_modules/@types/yargs/index.d.ts",
-      "../src/app.service.ts"
+      "../src/main.ts"
     ]
   },
   "version": "3.7.2"
